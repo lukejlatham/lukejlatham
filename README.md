@@ -28,5 +28,5 @@
 
 ## Skills
 
-- **Languages:** Python, Java, C, SQL, PHP, HTML, MIPS32
+- **Languages:** Python, Java, C, SQL, PHP, HTML, Assembly (MIPS32)
 - **Other Skills:** Analytical research, economic analysis, presentation design
